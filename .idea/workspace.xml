@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c117e0f-28ae-4a42-a2eb-00141625e8f1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5c117e0f-28ae-4a42-a2eb-00141625e8f1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -35,6 +33,30 @@
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pixivspider-data/config.ini">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pixivspider-data/PixivCookie.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images_r18/20190102/72421233.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/images_normal/20190409/74110963.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -65,6 +87,27 @@
             <path>
               <item name="mySpider" type="b2602c69:ProjectViewProjectNode" />
               <item name="mySpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySpider" type="462c0819:PsiDirectoryNode" />
+              <item name="images_normal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySpider" type="462c0819:PsiDirectoryNode" />
+              <item name="images_normal" type="462c0819:PsiDirectoryNode" />
+              <item name="20190409" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySpider" type="462c0819:PsiDirectoryNode" />
+              <item name="images_r18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mySpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mySpider" type="462c0819:PsiDirectoryNode" />
+              <item name="pixivspider-data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,12 +168,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555380539141</updated>
-      <workItem from="1555380543576" duration="1941000" />
+      <workItem from="1555380543576" duration="2204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1941000" />
+    <option name="totallyTimeSpent" value="2204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -172,6 +215,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config_files/pre.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config_files/next.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -179,6 +228,22 @@
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pixivspider-data/config.ini">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pixivspider-data/PixivCookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_r18/20190102/72421233.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images_normal/20190409/74110963.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
