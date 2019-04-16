@@ -1,0 +1,10 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.pixiv.net	TRUE	/	TRUE	1557606577	PHPSESSID	21598537_bd04504af01b90d381148315c16d92da
+.pixiv.net	TRUE	/	FALSE	1557606577	device_token	59d97dd345b35079662ea7d4ec89a4ae
+.pixiv.net	TRUE	/	TRUE	1712694576	p_ab_d_id	1633069442
+.pixiv.net	TRUE	/	FALSE	1712694576	p_ab_id	4
+.pixiv.net	TRUE	/	FALSE	1712694576	p_ab_id_2	3
+.pixiv.net	TRUE	/	TRUE	1618086577	privacy_policy_agreement	1
