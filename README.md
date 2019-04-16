@@ -30,6 +30,10 @@
 
 4. `delay`为日期修正参数，表示选择距离今天几天前的日期，如`delay=1`即昨天，一般来说，由于p站日榜更新不是每日实时的，通常取`delay=2`，默认值也为2；
 
-5. 程序运行需要当前目录下有`image_normal`或`image_r18`目录；
+5. 需要登录，请在`pixivspider-data/config.ini`中添加登录信息；
 
-6. 程序运行时如果报错请检查`image_normal`或`image_r18`目录下是否已经存在目标日期目录。
+6. 程序运行需要当前目录下有`image_normal`或`image_r18`目录；
+
+7. 程序运行时如果报错请检查`image_normal`或`image_r18`目录下是否已经存在目标日期目录。
+
+   
