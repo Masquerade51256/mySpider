@@ -115,9 +115,4 @@ dmypy.json
 *.jpg
 *.png
 *.ini
-*.ini
-pixivspider-data/config.ini
-pixivspider-data/config.ini
-*.xml
-*.ini
 *.xml
