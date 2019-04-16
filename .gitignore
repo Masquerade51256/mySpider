@@ -114,3 +114,7 @@ dmypy.json
 .pyre/
 *.jpg
 *.png
+*.ini
+*.ini
+pixivspider-data/config.ini
+pixivspider-data/config.ini
